@@ -1,0 +1,62 @@
+[
+    {
+        "id": "celular-01",
+        "titulo": "iphone 13",
+        "imagen": "./img/iphone.jpg",
+        "categoria": {
+            "nombre": "celular",
+            "id": "celular"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "celular-02",
+        "titulo": "S23",
+        "imagen": "./img/samsungs23.jpg",
+        "categoria": {
+            "nombre": "celular",
+            "id": "celular"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "celular-03",
+        "titulo": "motorola EDGE 40",
+        "imagen": "./img/motorola.jpg",
+        "categoria": {
+            "nombre": "celular",
+            "id": "celular"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "computadora",
+        "titulo": "ACER Predator 17",
+        "imagen": "./img/notebook.jpg",
+        "categoria": {
+            "nombre": "computadora",
+            "id": "computadora"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "periferico-01",
+        "titulo": "mouse razer",
+        "imagen": "./img/mouse.jpg",
+        "categoria": {
+            "nombre": "mouse",
+            "id": "periferico"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "periferico-0",
+        "titulo": "teclado razer",
+        "imagen": "./img/teclado.jpg",
+        "categoria": {
+            "nombre": "teclado",
+            "id": "periferico"
+        },
+        "precio": 1000
+    }
+]
